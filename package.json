@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js start main.json --attach --env production",
+    "start": "babel-node index.js",
     "start-dev": "cross-env NODE_ENV=development babel-node index.js"
   },
   "keywords": [],

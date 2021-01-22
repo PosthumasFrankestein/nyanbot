@@ -1,7 +1,0 @@
-{
-    "name": "the_awesome",
-    "script": "app.js",
-    "instances": 1,
-    "exec_mode": "cluster"
-  }
-  

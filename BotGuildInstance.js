@@ -1,10 +1,10 @@
 import low from 'lowdb';
 import FileAsync from 'lowdb/adapters/FileAsync';
-import logger from "./Logger";
+import logger from "./Logger.js";
 import _ from "lodash";
 import OGParser from "ogparser";
 import {MessageEmbed} from "discord.js";
-import {COMMAND_CHARACTER, VERSION} from "./Bot";
+import {COMMAND_CHARACTER, VERSION} from "./Bot.js";
 
 const getNewDatabase = (filename) => new Promise((res) => {
     low(new FileAsync(filename + ".json"))

@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node index.js",
+    "start": "babel-node index.js start main.json --attach --env production",
     "start-dev": "cross-env NODE_ENV=development babel-node index.js"
   },
   "keywords": [],
   "author": "souma",
   "license": "ISC",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
     "bufferutil": "^4.0.2",
     "cross-env": "^7.0.3",
     "discord.js": "^12.5.1",

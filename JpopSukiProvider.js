@@ -1,6 +1,6 @@
 import axios from "axios";
 import Parser from "rss-parser";
-import logger from "./Logger";
+import logger from "./Logger.js";
 
 class JpopSukiProvider {
     baseURL = 'https://jpopsuki.eu/feeds.php';

@@ -1,0 +1,286 @@
+[2021-01-22T08:56:27.104Z][error]: Unhandled promise rejection Error [TOKEN_INVALID]: An invalid token was provided.
+[2021-01-22T09:02:18.052Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T09:07:45.395Z][error]: Unhandled promise rejection TypeError: Cannot read property 'commands' of undefined
+[2021-01-22T09:09:24.563Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T09:09:24.571Z][info]: Preparing cache for 475580066420752399
+[2021-01-22T09:09:24.621Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T09:09:24.623Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_all
+[2021-01-22T09:09:24.623Z][info]: Starting interval for 475580066420752399 in 30 minutes for jpop_all
+[2021-01-22T09:15:42.010Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T09:15:42.073Z][info]: Preparing cache for 475580066420752399
+[2021-01-22T09:15:42.226Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T09:15:42.236Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_all
+[2021-01-22T09:15:42.241Z][info]: Starting interval for 475580066420752399 in 30 minutes for jpop_all
+[2021-01-22T09:18:05.976Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T09:18:06.002Z][info]: Preparing cache for 475580066420752399
+[2021-01-22T09:18:06.282Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T09:18:06.287Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_all
+[2021-01-22T09:18:06.289Z][info]: Starting interval for 475580066420752399 in 30 minutes for jpop_all
+[2021-01-22T09:51:09.036Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T09:51:09.043Z][info]: Preparing cache for 475580066420752399
+[2021-01-22T09:51:09.112Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T09:51:09.115Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_all
+[2021-01-22T09:51:09.116Z][info]: Starting interval for 475580066420752399 in 30 minutes for jpop_all
+[2021-01-22T09:52:41.048Z][warn]: No valid channel target was found for server 475580066420752399 for type nyaa_updates
+[2021-01-22T09:54:58.056Z][info]: New response channel was set for server 475580066420752399 - 802113684544946196 for type nyaa_updates
+[2021-01-22T09:55:07.719Z][info]: Updating shows for 475580066420752399
+[2021-01-22T09:55:07.722Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T09:55:09.531Z][info]: Results found for Horriblesubs Re Zero kara Hajimeru Isekai Seikatsu 1080p: 60
+[2021-01-22T09:55:09.537Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/799744 for server 475580066420752399
+[2021-01-22T09:55:12.024Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/799751 for server 475580066420752399
+[2021-01-22T09:55:14.546Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/801819 for server 475580066420752399
+[2021-01-22T09:55:17.011Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/803890 for server 475580066420752399
+[2021-01-22T09:55:19.535Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/805957 for server 475580066420752399
+[2021-01-22T09:55:22.133Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/807933 for server 475580066420752399
+[2021-01-22T09:55:24.614Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/810036 for server 475580066420752399
+[2021-01-22T09:55:27.111Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/812096 for server 475580066420752399
+[2021-01-22T09:55:29.587Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/814206 for server 475580066420752399
+[2021-01-22T09:55:32.086Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/816195 for server 475580066420752399
+[2021-01-22T09:55:35.143Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/818277 for server 475580066420752399
+[2021-01-22T09:55:37.602Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/820228 for server 475580066420752399
+[2021-01-22T09:55:40.058Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/822161 for server 475580066420752399
+[2021-01-22T09:55:42.608Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/824479 for server 475580066420752399
+[2021-01-22T09:55:45.097Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/826704 for server 475580066420752399
+[2021-01-22T09:55:47.569Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/828915 for server 475580066420752399
+[2021-01-22T09:55:50.049Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/831321 for server 475580066420752399
+[2021-01-22T09:55:52.494Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/833598 for server 475580066420752399
+[2021-01-22T09:55:54.947Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/835846 for server 475580066420752399
+[2021-01-22T09:55:57.435Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/838049 for server 475580066420752399
+[2021-01-22T09:55:59.929Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/840332 for server 475580066420752399
+[2021-01-22T09:56:02.397Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/842619 for server 475580066420752399
+[2021-01-22T09:56:04.955Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/844934 for server 475580066420752399
+[2021-01-22T09:56:07.436Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/846998 for server 475580066420752399
+[2021-01-22T09:56:09.902Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/849211 for server 475580066420752399
+[2021-01-22T09:56:12.353Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/851329 for server 475580066420752399
+[2021-01-22T09:56:14.867Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/851773 for server 475580066420752399
+[2021-01-22T09:56:17.342Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/916313 for server 475580066420752399
+[2021-01-22T09:56:19.866Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1153795 for server 475580066420752399
+[2021-01-22T09:56:22.456Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1155466 for server 475580066420752399
+[2021-01-22T09:56:24.979Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1208758 for server 475580066420752399
+[2021-01-22T09:56:27.490Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1210329 for server 475580066420752399
+[2021-01-22T09:56:30.005Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1212301 for server 475580066420752399
+[2021-01-22T09:56:32.576Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1214273 for server 475580066420752399
+[2021-01-22T09:56:35.069Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1216334 for server 475580066420752399
+[2021-01-22T09:56:37.529Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1218245 for server 475580066420752399
+[2021-01-22T09:56:39.979Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1222128 for server 475580066420752399
+[2021-01-22T09:56:42.439Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1223988 for server 475580066420752399
+[2021-01-22T09:56:44.920Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1226076 for server 475580066420752399
+[2021-01-22T09:56:47.390Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1228135 for server 475580066420752399
+[2021-01-22T09:56:49.860Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1230011 for server 475580066420752399
+[2021-01-22T09:56:52.342Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1232098 for server 475580066420752399
+[2021-01-22T09:56:54.880Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1234195 for server 475580066420752399
+[2021-01-22T09:56:57.351Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1234266 for server 475580066420752399
+[2021-01-22T09:56:59.796Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1260918 for server 475580066420752399
+[2021-01-22T09:57:02.272Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1262914 for server 475580066420752399
+[2021-01-22T09:57:04.739Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1263014 for server 475580066420752399
+[2021-01-22T09:57:07.243Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1263017 for server 475580066420752399
+[2021-01-22T09:57:09.677Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1264919 for server 475580066420752399
+[2021-01-22T09:57:12.143Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1266767 for server 475580066420752399
+[2021-01-22T09:57:14.583Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1268919 for server 475580066420752399
+[2021-01-22T09:57:17.178Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1270925 for server 475580066420752399
+[2021-01-22T09:57:19.657Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1272905 for server 475580066420752399
+[2021-01-22T09:57:22.140Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1274814 for server 475580066420752399
+[2021-01-22T09:57:24.683Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1276726 for server 475580066420752399
+[2021-01-22T09:57:27.161Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1278638 for server 475580066420752399
+[2021-01-22T09:57:29.616Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1280943 for server 475580066420752399
+[2021-01-22T09:57:32.065Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1283070 for server 475580066420752399
+[2021-01-22T09:57:34.508Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1285088 for server 475580066420752399
+[2021-01-22T09:57:37.057Z][info]: Posting new result for Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season with guid https://nyaa.si/view/1290993 for server 475580066420752399
+[2021-01-22T09:57:40.665Z][info]: Results found for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III 1080p erai: 16
+[2021-01-22T09:57:40.669Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1285600 for server 475580066420752399
+[2021-01-22T09:57:43.114Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1288281 for server 475580066420752399
+[2021-01-22T09:57:45.599Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1291209 for server 475580066420752399
+[2021-01-22T09:57:48.048Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1293941 for server 475580066420752399
+[2021-01-22T09:57:48.988Z][info]: New show has been added to the searchlist - yakusoku no neverland S2 erai-raws 1080p - https://myanimelist.net/anime/39617/Yakusoku_no_Neverland_2nd_Season for server 475580066420752399
+[2021-01-22T09:57:50.564Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1294129 for server 475580066420752399
+[2021-01-22T09:57:53.034Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1294132 for server 475580066420752399
+[2021-01-22T09:57:55.497Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1294135 for server 475580066420752399
+[2021-01-22T09:57:57.956Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1294139 for server 475580066420752399
+[2021-01-22T09:58:00.475Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1296884 for server 475580066420752399
+[2021-01-22T09:58:03.119Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1299207 for server 475580066420752399
+[2021-01-22T09:58:05.337Z][info]: New show has been added to the searchlist - horimiya erai-raws 1080p - https://myanimelist.net/anime/42897/Horimiya for server 475580066420752399
+[2021-01-22T09:58:05.565Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1302900 for server 475580066420752399
+[2021-01-22T09:58:08.029Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1305350 for server 475580066420752399
+[2021-01-22T09:58:10.557Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1307864 for server 475580066420752399
+[2021-01-22T09:58:13.038Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1311020 for server 475580066420752399
+[2021-01-22T09:58:15.504Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1315882 for server 475580066420752399
+[2021-01-22T09:58:17.958Z][info]: Posting new result for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III with guid https://nyaa.si/view/1316790 for server 475580066420752399
+[2021-01-22T09:58:20.632Z][info]: New show has been added to the searchlist - tensei shitara slime datta ken 2nd season erai-raws 1080p - https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season for server 475580066420752399
+[2021-01-22T09:58:21.310Z][info]: Results found for jujutsu kaisen 1080p erai: 15
+[2021-01-22T09:58:21.311Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1285661 for server 475580066420752399
+[2021-01-22T09:58:23.860Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1288322 for server 475580066420752399
+[2021-01-22T09:58:26.302Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1291271 for server 475580066420752399
+[2021-01-22T09:58:28.854Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1294004 for server 475580066420752399
+[2021-01-22T09:58:31.394Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1296699 for server 475580066420752399
+[2021-01-22T09:58:33.966Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1299315 for server 475580066420752399
+[2021-01-22T09:58:35.372Z][info]: New show has been added to the searchlist - jujutsu kaisen 1080p erai - https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV for server 475580066420752399
+[2021-01-22T09:58:36.465Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1301943 for server 475580066420752399
+[2021-01-22T09:58:39.072Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1305377 for server 475580066420752399
+[2021-01-22T09:58:41.540Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1307885 for server 475580066420752399
+[2021-01-22T09:58:44.034Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1310680 for server 475580066420752399
+[2021-01-22T09:58:46.525Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1313701 for server 475580066420752399
+[2021-01-22T09:58:49.129Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1316672 for server 475580066420752399
+[2021-01-22T09:58:51.593Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1319817 for server 475580066420752399
+[2021-01-22T09:58:54.109Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1320654 for server 475580066420752399
+[2021-01-22T09:58:56.591Z][info]: Posting new result for Jujutsu Kaisen (TV) with guid https://nyaa.si/view/1327944 for server 475580066420752399
+[2021-01-22T09:59:00.138Z][info]: Results found for Higurashi no Naku Koro ni gou 1080p erai: 23
+[2021-01-22T09:59:00.140Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1290927 for server 475580066420752399
+[2021-01-22T09:59:01.176Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T09:59:02.857Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1293599 for server 475580066420752399
+[2021-01-22T09:59:05.478Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1293727 for server 475580066420752399
+[2021-01-22T09:59:08.006Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1296256 for server 475580066420752399
+[2021-01-22T09:59:10.545Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1296471 for server 475580066420752399
+[2021-01-22T09:59:13.879Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1298911 for server 475580066420752399
+[2021-01-22T09:59:16.342Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1300972 for server 475580066420752399
+[2021-01-22T09:59:19.051Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1301456 for server 475580066420752399
+[2021-01-22T09:59:21.557Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1301474 for server 475580066420752399
+[2021-01-22T09:59:24.035Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1305462 for server 475580066420752399
+[2021-01-22T09:59:26.494Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1306333 for server 475580066420752399
+[2021-01-22T09:59:29.023Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1307894 for server 475580066420752399
+[2021-01-22T09:59:31.522Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1308378 for server 475580066420752399
+[2021-01-22T09:59:33.980Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1310060 for server 475580066420752399
+[2021-01-22T09:59:36.423Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1310725 for server 475580066420752399
+[2021-01-22T09:59:38.966Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1313145 for server 475580066420752399
+[2021-01-22T09:59:41.488Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1313734 for server 475580066420752399
+[2021-01-22T09:59:44.038Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1316272 for server 475580066420752399
+[2021-01-22T09:59:46.497Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1319313 for server 475580066420752399
+[2021-01-22T09:59:49.027Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1319654 for server 475580066420752399
+[2021-01-22T09:59:51.479Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1328313 for server 475580066420752399
+[2021-01-22T09:59:53.935Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1328401 for server 475580066420752399
+[2021-01-22T09:59:56.399Z][info]: Posting new result for Higurashi no Naku Koro ni Gou with guid https://nyaa.si/view/1330836 for server 475580066420752399
+[2021-01-22T10:00:02.218Z][info]: Results found for Maoujou de Oyasumi 1080p erai: 21
+[2021-01-22T10:00:02.219Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1286824 for server 475580066420752399
+[2021-01-22T10:00:03.960Z][info]: New show has been added to the searchlist - yuru camp season 2 erai-raws 1080p - https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2 for server 475580066420752399
+[2021-01-22T10:00:04.681Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1289705 for server 475580066420752399
+[2021-01-22T10:00:07.144Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1290226 for server 475580066420752399
+[2021-01-22T10:00:09.614Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1292744 for server 475580066420752399
+[2021-01-22T10:00:12.120Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1292981 for server 475580066420752399
+[2021-01-22T10:00:14.572Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1295338 for server 475580066420752399
+[2021-01-22T10:00:17.091Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1296171 for server 475580066420752399
+[2021-01-22T10:00:19.583Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1297957 for server 475580066420752399
+[2021-01-22T10:00:22.070Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1298600 for server 475580066420752399
+[2021-01-22T10:00:24.605Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1300529 for server 475580066420752399
+[2021-01-22T10:00:27.143Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1301019 for server 475580066420752399
+[2021-01-22T10:00:29.622Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1303210 for server 475580066420752399
+[2021-01-22T10:00:32.172Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1306089 for server 475580066420752399
+[2021-01-22T10:00:34.654Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1306224 for server 475580066420752399
+[2021-01-22T10:00:37.144Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1307169 for server 475580066420752399
+[2021-01-22T10:00:39.659Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1309141 for server 475580066420752399
+[2021-01-22T10:00:42.165Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1310743 for server 475580066420752399
+[2021-01-22T10:00:44.638Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1312099 for server 475580066420752399
+[2021-01-22T10:00:47.119Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1313765 for server 475580066420752399
+[2021-01-22T10:00:49.607Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1315548 for server 475580066420752399
+[2021-01-22T10:00:52.216Z][info]: Posting new result for Maoujou de Oyasumi with guid https://nyaa.si/view/1318403 for server 475580066420752399
+[2021-01-22T10:00:57.916Z][info]: Results found for munou na nana 1080p erai: 21
+[2021-01-22T10:00:57.917Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1286392 for server 475580066420752399
+[2021-01-22T10:01:00.476Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1289956 for server 475580066420752399
+[2021-01-22T10:01:02.998Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1292248 for server 475580066420752399
+[2021-01-22T10:01:05.520Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1292360 for server 475580066420752399
+[2021-01-22T10:01:08.008Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1294857 for server 475580066420752399
+[2021-01-22T10:01:10.491Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1295956 for server 475580066420752399
+[2021-01-22T10:01:12.947Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1297512 for server 475580066420752399
+[2021-01-22T10:01:15.437Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1297564 for server 475580066420752399
+[2021-01-22T10:01:17.976Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1300097 for server 475580066420752399
+[2021-01-22T10:01:20.493Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1301022 for server 475580066420752399
+[2021-01-22T10:01:23.265Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1302734 for server 475580066420752399
+[2021-01-22T10:01:25.732Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1302752 for server 475580066420752399
+[2021-01-22T10:01:28.278Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1305763 for server 475580066420752399
+[2021-01-22T10:01:30.765Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1306351 for server 475580066420752399
+[2021-01-22T10:01:33.265Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1308652 for server 475580066420752399
+[2021-01-22T10:01:35.763Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1309013 for server 475580066420752399
+[2021-01-22T10:01:38.224Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1311711 for server 475580066420752399
+[2021-01-22T10:01:40.701Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1315552 for server 475580066420752399
+[2021-01-22T10:01:43.165Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1317696 for server 475580066420752399
+[2021-01-22T10:01:45.646Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1320766 for server 475580066420752399
+[2021-01-22T10:01:48.164Z][info]: Posting new result for Munou na Nana with guid https://nyaa.si/view/1320946 for server 475580066420752399
+[2021-01-22T10:01:53.923Z][info]: Results found for Hanyou no Yashahime 1080p erai: 14
+[2021-01-22T10:01:53.924Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1285921 for server 475580066420752399
+[2021-01-22T10:01:56.440Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1288630 for server 475580066420752399
+[2021-01-22T10:01:58.900Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1291582 for server 475580066420752399
+[2021-01-22T10:02:01.348Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1294327 for server 475580066420752399
+[2021-01-22T10:02:03.840Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1296994 for server 475580066420752399
+[2021-01-22T10:02:06.357Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1299562 for server 475580066420752399
+[2021-01-22T10:02:08.999Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1302199 for server 475580066420752399
+[2021-01-22T10:02:11.565Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1305369 for server 475580066420752399
+[2021-01-22T10:02:14.061Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1308069 for server 475580066420752399
+[2021-01-22T10:02:16.542Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1311035 for server 475580066420752399
+[2021-01-22T10:02:19.110Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1313891 for server 475580066420752399
+[2021-01-22T10:02:21.568Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1317001 for server 475580066420752399
+[2021-01-22T10:02:24.039Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1320122 for server 475580066420752399
+[2021-01-22T10:02:26.540Z][info]: Posting new result for Hanyou no Yashahime: Sengoku Otogizoushi with guid https://nyaa.si/view/1325568 for server 475580066420752399
+[2021-01-22T10:02:32.465Z][info]: Results found for Kuma kuma kuma bear 1080p erai: 19
+[2021-01-22T10:02:32.467Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1287678 for server 475580066420752399
+[2021-01-22T10:02:35.041Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1290355 for server 475580066420752399
+[2021-01-22T10:02:37.593Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1290934 for server 475580066420752399
+[2021-01-22T10:02:40.054Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1293232 for server 475580066420752399
+[2021-01-22T10:02:42.526Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1293337 for server 475580066420752399
+[2021-01-22T10:02:45.034Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1296165 for server 475580066420752399
+[2021-01-22T10:02:47.568Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1298534 for server 475580066420752399
+[2021-01-22T10:02:50.007Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1298594 for server 475580066420752399
+[2021-01-22T10:02:52.495Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1301075 for server 475580066420752399
+[2021-01-22T10:02:55.164Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1301423 for server 475580066420752399
+[2021-01-22T10:02:57.708Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1305470 for server 475580066420752399
+[2021-01-22T10:03:00.248Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1306342 for server 475580066420752399
+[2021-01-22T10:03:02.714Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1307160 for server 475580066420752399
+[2021-01-22T10:03:05.154Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1309698 for server 475580066420752399
+[2021-01-22T10:03:07.661Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1310734 for server 475580066420752399
+[2021-01-22T10:03:10.149Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1312671 for server 475580066420752399
+[2021-01-22T10:03:12.626Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1313748 for server 475580066420752399
+[2021-01-22T10:03:15.072Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1315599 for server 475580066420752399
+[2021-01-22T10:03:17.584Z][info]: Posting new result for Kuma Kuma Kuma Bear with guid https://nyaa.si/view/1318886 for server 475580066420752399
+[2021-01-22T10:03:23.225Z][info]: Results found for Gochuumon wa Usagi Desu ka? Bloom 1080p ffa: 12
+[2021-01-22T10:03:23.227Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1294461 for server 475580066420752399
+[2021-01-22T10:03:25.817Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1297088 for server 475580066420752399
+[2021-01-22T10:03:28.267Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1299634 for server 475580066420752399
+[2021-01-22T10:03:30.722Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1299635 for server 475580066420752399
+[2021-01-22T10:03:33.240Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1299665 for server 475580066420752399
+[2021-01-22T10:03:35.738Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1302979 for server 475580066420752399
+[2021-01-22T10:03:38.241Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1305729 for server 475580066420752399
+[2021-01-22T10:03:40.705Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1308133 for server 475580066420752399
+[2021-01-22T10:03:43.198Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1311089 for server 475580066420752399
+[2021-01-22T10:03:45.722Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1316109 for server 475580066420752399
+[2021-01-22T10:03:48.241Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1317077 for server 475580066420752399
+[2021-01-22T10:03:50.723Z][info]: Posting new result for Gochuumon wa Usagi Desu ka? Bloom with guid https://nyaa.si/view/1320256 for server 475580066420752399
+[2021-01-22T10:03:57.455Z][info]: Results found for horimiya erai-raws 1080p: 2
+[2021-01-22T10:03:57.458Z][info]: Posting new result for Horimiya with guid https://nyaa.si/view/1326557 for server 475580066420752399
+[2021-01-22T10:03:59.922Z][info]: Posting new result for Horimiya with guid https://nyaa.si/view/1328434 for server 475580066420752399
+[2021-01-22T10:04:04.419Z][info]: Results found for tensei shitara slime datta ken 2nd season erai-raws 1080p: 3
+[2021-01-22T10:04:04.421Z][info]: Posting new result for Tensei shitara Slime Datta Ken 2nd Season with guid https://nyaa.si/view/1326455 for server 475580066420752399
+[2021-01-22T10:04:07.042Z][info]: Posting new result for Tensei shitara Slime Datta Ken 2nd Season with guid https://nyaa.si/view/1326458 for server 475580066420752399
+[2021-01-22T10:04:09.514Z][info]: Posting new result for Tensei shitara Slime Datta Ken 2nd Season with guid https://nyaa.si/view/1329990 for server 475580066420752399
+[2021-01-22T10:04:12.048Z][error]: Unhandled promise rejection RequestError: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+[2021-01-22T10:21:09.116Z][info]: Updating list 475580066420752399
+[2021-01-22T10:21:09.124Z][warn]: No valid channel target was found for server 475580066420752399 for type nyaa_all
+[2021-01-22T10:21:09.125Z][info]: Updating list 475580066420752399
+[2021-01-22T10:21:09.131Z][warn]: No valid channel target was found for server 475580066420752399 for type jpop_all
+[2021-01-22T10:25:07.724Z][info]: Updating list 475580066420752399
+[2021-01-22T10:25:07.741Z][info]: Updating shows for 475580066420752399
+[2021-01-22T10:25:07.742Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T10:25:09.104Z][info]: Results found for Horriblesubs Re Zero kara Hajimeru Isekai Seikatsu 1080p: 60
+[2021-01-22T10:25:10.133Z][info]: Results found for Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III 1080p erai: 16
+[2021-01-22T10:25:10.922Z][info]: Results found for jujutsu kaisen 1080p erai: 15
+[2021-01-22T10:25:11.970Z][info]: Results found for Higurashi no Naku Koro ni gou 1080p erai: 23
+[2021-01-22T10:25:13.001Z][info]: Results found for Maoujou de Oyasumi 1080p erai: 21
+[2021-01-22T10:25:14.037Z][info]: Results found for munou na nana 1080p erai: 21
+[2021-01-22T10:25:14.822Z][info]: Results found for Hanyou no Yashahime 1080p erai: 14
+[2021-01-22T10:25:15.943Z][info]: Results found for Kuma kuma kuma bear 1080p erai: 19
+[2021-01-22T10:25:16.708Z][info]: Results found for Gochuumon wa Usagi Desu ka? Bloom 1080p ffa: 12
+[2021-01-22T10:25:18.218Z][info]: Results found for horimiya erai-raws 1080p: 2
+[2021-01-22T10:25:19.048Z][info]: Results found for tensei shitara slime datta ken 2nd season erai-raws 1080p: 3
+[2021-01-22T10:25:19.069Z][error]: Unhandled promise rejection RequestError: TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+[2021-01-22T10:29:00.040Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:29:12.240Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:29:18.291Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:29:28.180Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:29:33.540Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:29:51.103Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:30:02.467Z][info]: A show has been removed from the searchlist - undefined from server 475580066420752399
+[2021-01-22T10:51:09.116Z][info]: Updating list 475580066420752399
+[2021-01-22T10:51:09.119Z][warn]: No valid channel target was found for server 475580066420752399 for type nyaa_all
+[2021-01-22T10:51:09.126Z][info]: Updating list 475580066420752399
+[2021-01-22T10:51:09.129Z][warn]: No valid channel target was found for server 475580066420752399 for type jpop_all
+[2021-01-22T11:06:24.737Z][info]: Bot is now ready, working as ohboi#7755
+[2021-01-22T11:06:24.743Z][info]: Preparing cache for 475580066420752399
+[2021-01-22T11:06:24.843Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_updates
+[2021-01-22T11:06:24.844Z][info]: Starting interval for 475580066420752399 in 30 minutes for nyaa_all
+[2021-01-22T11:06:24.844Z][info]: Starting interval for 475580066420752399 in 30 minutes for jpop_all

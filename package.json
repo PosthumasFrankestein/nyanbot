@@ -12,11 +12,6 @@
   "author": "souma",
   "license": "ISC",
   "dependencies": {
-    "babel/core": "^7.12.10",
-    "babel/node": "^7.12.10",
-    "babel/plugin-proposal-class-properties": "^7.12.1",
-    "babel/plugin-proposal-nullish-coalescing-operator": "^7.12.1",
-    "babel/preset-env": "^7.12.11",
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.2",
     "babel-preset-env": "^1.7.0",
@@ -36,6 +31,11 @@
     "zlib-sync": "^0.1.7"
   },
   "devDependencies": {
+    "babel/core": "^7.12.10",
+    "babel/node": "^7.12.10",
+    "babel/plugin-proposal-class-properties": "^7.12.1",
+    "babel/plugin-proposal-nullish-coalescing-operator": "^7.12.1",
+    "babel/preset-env": "^7.12.11",
     "axios": "^0.21.1",
     "lodash": "^4.17.20",
     "rss-parser": "^3.10.0"

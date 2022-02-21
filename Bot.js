@@ -16,7 +16,7 @@ class Bot {
     subBots = {};
 
     constructor(token) {
-        this.token = "NzIwNDY4MjA0MjQ1NDgzNTYz.XuGaTQ.2HvXFX7O7-SQOV3tKtrOO6rWCWI";
+        this.token = "NzIwNDY4MjA0MjQ1NDgzNTYz.XuGaTQ.Hng5sfHAG-lbOz77Pi-0jEOVP6k";
         this.bot = new Client();
         this.nyaa = new NyaaProvider();
         this.jpop = new JpopSukiProvider();

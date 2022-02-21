@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
     "start": "babel-node index.js",
     "start-dev": "cross-env NODE_ENV=development babel-node index.js"
   },
@@ -12,24 +11,24 @@
   "author": "souma",
   "license": "ISC",
   "dependencies": {
-    "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.2",
-    "babel-preset-env": "^1.7.0",
     "bufferutil": "^4.0.2",
     "cross-env": "^7.0.3",
+    "debug": "^4.3.1",
     "discord.js": "^12.5.1",
     "erlpack": "^0.1.3",
     "express": "^4.17.1",
     "ffmpeg-static": "^4.2.7",
     "lowdb": "^1.0.0",
-    "node": "^15.4.0",
+    "node": "^17.3.0",
     "ogparser": "^1.0.0",
     "parse-torrent-name": "^0.5.4",
+    "pm2": "^5.1.2",
+    "request": "^2.88.2",
     "typescript": "^4.2.0-beta",
     "utf-8-validate": "^5.0.3",
     "winston": "^3.3.3",
-    "zlib-sync": "^0.1.7",
-    "glob-parent": ">=5.1.2"
+    "zlib-sync": "^0.1.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
@@ -37,9 +36,10 @@
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.12.1",
     "@babel/preset-env": "^7.12.11",
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
     "lodash": "^4.17.21",
     "rss-parser": "^3.10.0",
-    "glob-parent": ">=5.1.2"
+    "webpack": "^5.65.0",
+    "xxxxx": "^1.0.3"
   }
 }

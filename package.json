@@ -40,7 +40,7 @@
     "@babel/preset-env": "^7.12.11",
     "axios": "^0.21.4",
     "lodash": "^4.17.21",
-    "rss-parser": "^3.10.0",
+    "rss-parser": "^3.13.0",
     "webpack": "^5.65.0",
     "xxxxx": "^1.0.3"
   }
